@@ -1,0 +1,3461 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>284815653</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\system_stm32f10x.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Descriptor.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_bsp.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dbgmcu.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Bsp.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_usart.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_flash.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Exe\FTDI_Emulator.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_init.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_rtc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_rcc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\EEPROM_Emulator.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_flash.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dma.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_spi.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\assert.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_sil.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_bsp.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_iwdg.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_crc.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_bkp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_regs.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_can.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_gpio.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_gpio.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_fsmc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_cec.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_rcc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_cec.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Emulator.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Emulator.o</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\assert.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_usart.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\trace.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_can.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\fifo.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_pwr.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_bsp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_snprintf.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_pwr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\utility.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32_it.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_cec.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_istr.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_crc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\EEPROM_Emulator.o</file>
+      <file>$PROJ_DIR$\Source\SEGGER_RTT_Syscalls_IAR.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_tim.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_sil.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_bkp.o</file>
+      <file>$PROJ_DIR$\Source\SEGGER_RTT.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_bkp.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\fifo.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\misc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_fsmc.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dac.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\EEPROM_Emulator.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\misc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_i2c.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_pwr.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_exti.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_crc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Emulator.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dma.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Bsp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\utility.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_exti.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_sdio.pbi</file>
+      <file>$PROJ_DIR$\Source\SEGGER_snprintf.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_mem.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_regs.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_mem.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dac.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_core.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_spi.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dbgmcu.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_i2c.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_istr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_tim.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_wwdg.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_fsmc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\fifo.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_eeprom.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Descriptor.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Descriptor.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_init.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_wwdg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\assert.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_RTT.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Bsp.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_gpio.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_int.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_HardFaultHandler.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Eeprom.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_iwdg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_RTT_printf.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dac.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_usart.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_core.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_core.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_tim.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\trace.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_rcc.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_pwr.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_istr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_HardFault_Handler.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_eeprom.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\startup_stm32f10x.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_wwdg.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_sdio.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32_it.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_can.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_adc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Eeprom.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dma.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32_it.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\List\FTDI_Emulator.map</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_adc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\system_stm32f10x.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_rtc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_eeprom.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_adc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_HardFaultHandler.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\FTDI_Eeprom.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_int.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_i2c.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_HardFaultHandler.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_pwr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_dbgmcu.o</file>
+      <file>$PROJ_DIR$\Library\USB\usb_int.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_gpio.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_rtc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_rcc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_fsmc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_gpio.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_sdio.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_pwr.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_fsmc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_iwdg.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_spi.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_usart.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_i2c.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_core.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_wwdg.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_pwr.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_core.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_rtc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_tim.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_spi.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_init.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_init.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_int.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_iwdg.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_i2c.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_usart.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_tim.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_wwdg.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_rcc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_sdio.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_def.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Emulator.c</file>
+      <file>$PROJ_DIR$\Source\FTDI_Type.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_type.h</file>
+      <file>$PROJ_DIR$\Source\EEPROM_Emulator.h</file>
+      <file>$PROJ_DIR$\Source\EEPROM_Emulator.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_mem.c</file>
+      <file>$PROJ_DIR$\Source\fifo.c</file>
+      <file>$PROJ_DIR$\Source\FTDI_Descriptor.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Eeprom.h</file>
+      <file>$PROJ_DIR$\Source\fifo.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_regs.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_mem.h</file>
+      <file>$PROJ_DIR$\Source\assert.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Emulator.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_sil.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_sil.h</file>
+      <file>$PROJ_DIR$\Source\assert.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_regs.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_lib.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Bsp.c</file>
+      <file>$PROJ_DIR$\Source\FTDI_Bsp.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Descriptor.c</file>
+      <file>$PROJ_DIR$\Source\FTDI_Eeprom.c</file>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>$PROJ_DIR$\Source\usb_conf.h</file>
+      <file>$PROJ_DIR$\Source\trace.c</file>
+      <file>$PROJ_DIR$\Source\usb_bsp.h</file>
+      <file>$PROJ_DIR$\Source\stm32_it.h</file>
+      <file>$PROJ_DIR$\Source\stm32f10x_eeprom.h</file>
+      <file>$PROJ_DIR$\Source\system_stm32f10x.c</file>
+      <file>$PROJ_DIR$\Source\stm32f10x_conf.h</file>
+      <file>$PROJ_DIR$\Source\usb_istr.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_pwr.o</file>
+      <file>$PROJ_DIR$\Source\SEGGER_HardFaultHandler.S</file>
+      <file>$PROJ_DIR$\Source\SEGGER_HardFault_Handler.c</file>
+      <file>$PROJ_DIR$\Source\stm32_it.c</file>
+      <file>$PROJ_DIR$\Source\stm32f10x_eeprom.c</file>
+      <file>$PROJ_DIR$\Source\macro_misc.h</file>
+      <file>$PROJ_DIR$\Source\usb_istr.h</file>
+      <file>$PROJ_DIR$\Source\usb_bsp.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_int.pbi</file>
+      <file>$PROJ_DIR$\Source\trace.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_sdio.o</file>
+      <file>$PROJ_DIR$\Source\usb_pwr.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_regs.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\utility.o</file>
+      <file>$PROJ_DIR$\Source\SEGGER_HardFaultHandler.c</file>
+      <file>$PROJ_DIR$\Source\utility.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_RTT_Syscalls_IAR.pbi</file>
+      <file>$PROJ_DIR$\Linker\stm32f10x_sram.icf</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Source\utility.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\main.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_rtc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\HardFaultHandler.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_spi.__cstat.et</file>
+      <file>$PROJ_DIR$\Source\usb_pwr.c</file>
+      <file>$PROJ_DIR$\Source\SEGGER_RTT_printf.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\trace.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_flash.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_sil.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_HardFault_Handler.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_exti.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\SEGGER_HardFault_Handler.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_init.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\usb_mem.__cstat.et</file>
+      <file>$PROJ_DIR$\Source\HardFaultHandler.S</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\misc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\system_stm32f10x.__cstat.et</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_bkp.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_can.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\stm32f10x_iwdg.o</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_0.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_2.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_3.h</file>
+      <file>$PROJ_DIR$\Library\SPL\misc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_adc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\misc.c</file>
+      <file>$PROJ_DIR$\Library\CMSIS\startup_stm32f10x.s</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_1.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\system_stm32f10x.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_4.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_adc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_bkp.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dbgmcu.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_can.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dac.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_cec.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dma.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dma.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_exti.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_flash.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_crc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_crc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dbgmcu.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_exti.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dac.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_flash.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_cec.c</file>
+    </outputs>
+    <file>
+      <name>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Debug\Exe\FTDI_Emulator.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 135</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 230 18 57 64 6 100 131 36 233 70 123 142 125 128 141 61 129 31 74 86 148 132 124 244 15 96 28 71 253 46 13 12 222 88 117 114 95 137 239 3 87 10 108 122 85 212 26 20 226 91 24 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_RTT_Syscalls_IAR.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_RTT.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_snprintf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 254 153 257 225 139 266 159 262 102 2 45 231 278 156 258 255 256 264 263 19 11 42 134 47 210 276 273 161 151 160 177 5 120 265 268 280 272 274 150 172 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 177 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 107</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 231 276 257 225 47 161 254 262 102 2 45 134 210 273 151 177 255 256 264 263 19 139 266 278 153 156 159 258 150 11 42 5 120 265 268 280 272 274 172 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 150 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_fsmc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 102 2 177 254 262 45 231 272 257 225 120 268 150 167 255 256 264 263 19 11 42 265 280 274 172 155 163 153 134 139 47 210 266 276 278 273 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 153 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_iwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 111</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 253</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 139 254 150 2 262 45 231 268 167 257 225 134 47 272 177 255 256 264 263 19 11 42 5 120 265 280 274 172 155 163 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 172 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274 191 19 231 254 179 182 256 102 265 155 170 255 264 263 42 45 280 172 163 206 197 165 195 149 262 257 225 2 11 5 120 268 272 150 177 167 204 198 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 197 179 165 170 195 191 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 121</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 231 150 254 257 225 134 47 268 167 262 102 2 45 139 272 177 255 256 264 263 19 11 42 5 120 265 280 274 172 155 163 156 210 266 276 278 273 153 161 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 156 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 234</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 257 210 47 225 134 273 254 231 151 262 102 2 45 139 276 161 160 255 256 264 263 19 11 42 5 120 266 278 153 156 159 258 265 268 280 272 274 150 172 177 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 151 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 88</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 236</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 254 153 262 45 231 102 2 139 266 159 257 225 134 278 156 258 177 255 256 264 263 19 11 42 5 47 210 276 273 161 151 160 120 265 268 280 272 274 150 172 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 159 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 246</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274 195 102 2 231 254 197 262 45 265 155 206 165 149 257 225 42 280 172 163 182 179 170 191 255 256 264 263 19 11 5 120 268 272 150 177 167 204 198 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 197 179 165 170 195 191 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_int.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 220</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 144</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274 206 149 231 254 165 257 225 265 155 197 195 262 102 2 45 42 280 172 163 182 179 170 191 255 256 264 263 19 11 5 120 268 272 150 177 167 204 198 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 197 179 165 170 195 191 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 145</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274 231 254 257 225 265 155 262 102 2 45 280 172 163 177 255 256 264 263 19 11 42 5 120 268 272 150 167 161 134 139 47 210 266 276 278 273 153 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 161 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 114</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161 262 45 231 47 254 102 2 276 160 257 225 134 210 273 151 177 255 256 264 263 19 11 42 5 139 266 278 153 156 159 258 120 265 268 280 272 274 150 172 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_tim.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 225 254 257 134 151 47 210 273 262 102 2 231 276 161 160 177 255 256 264 263 19 45 139 266 278 153 156 159 258 167 11 42 5 120 265 268 280 272 274 150 172 155 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 167 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_wwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 126</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 264 231 266 263 159 255 42 45 153 254 256 102 19 11 5 120 278 156 258 177 262 257 225 2 134 139 47 210 276 273 161 151 160 163 265 268 280 272 274 150 172 155 167</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 163 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_sdio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 222</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 127</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 254 153 255 231 264 263 266 159 256 102 19 11 5 278 156 258 177 262 257 225 2 45 134 139 47 210 276 273 161 151 160 155 120 265 268 280 272 274 150 172 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 155 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FTDI_Emulator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 231 254 265 42 179 155 200 182 256 102 274 198 208 33 5 191 19 280 172 163 223 188 79 45 170 255 264 263 120 268 272 150 177 167 204 189 181 44 218 193 187 183 134 139 206 197 165 195 149 262 257 225 2 47 210 266 276 278 273 153 161 156 151 159 160 258 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 67 231 45 11 134 139 42 5 79 33 44 191 102 218 204 198 206 254 255 225 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 197 179 165 170 195 149 223 189 200 181 193 188 183 187 208</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\EEPROM_Emulator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 120 150 254 208 5 183 257 225 268 167 231 42 45 262 102 272 177 134 139 255 256 264 263 19 265 280 274 172 155 163 2 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183 102 231 45 11 134 139 42 5 208 254 255 225 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 247</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274 257 165 225 231 254 206 149 265 155 197 195 262 102 2 45 42 280 172 163 182 179 170 191 255 256 264 263 19 11 5 120 268 272 150 177 167 204 198 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 197 179 165 170 195 191 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\fifo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 45 217 228 11 5 231 102 189 192 79 134 139 67 33 44 48 243</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44 231 45 11 134 139 42 5 79 189 102 228 67 33 192 48 243 217</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_regs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 224</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274 195 102 2 231 254 197 262 265 155 206 165 149 257 225 42 45 280 172 163 182 179 170 191 255 256 264 263 19 11 5 120 268 272 150 177 167 204 198 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 197 179 165 170 195 191 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_sil.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 241</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274 256 102 182 179 231 254 191 19 265 155 170 255 264 263 42 45 280 172 163 206 197 165 195 149 262 257 225 2 11 5 120 268 272 150 177 167 204 198 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 197 179 165 170 195 191 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\assert.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 231 48 33 79 221 102 45 243 11 42 5 192 134 139 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 192 48 231 45 11 134 139 42 5 79 243 102 221 67 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FTDI_Bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 106</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 225 45 189 266 231 159 42 257 153 254 278 156 258 11 5 262 102 2 47 210 276 273 161 151 160 200 181 134 139 255 256 264 263 19 120 265 268 280 272 274 150 172 177 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 200 181 102 231 45 11 134 139 42 5 189 254 255 225 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FTDI_Descriptor.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 45 102 231 187 204 11 5 182 134 139</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 182 204 102 231 45 11 134 139 42 5 187</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FTDI_Eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 231 45 183 139 181 189 134 188 11 42 5</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 188 181 102 231 45 11 134 139 42 5 189 183</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 233</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 275</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 167 2 102 268 204 149 254 262 45 11 120 150 206 257 225 5 272 177 165 198 182 255 256 264 263 19 231 42 265 280 274 172 155 163 197 195 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258 179 170 191</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 198 197 179 165 170 195 191 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\trace.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 118</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 231 67 5 48 79 11 33 102 45 243 42 221 134 139</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 221 48 231 45 11 134 139 42 5 79 243 102 67 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\system_stm32f10x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 137</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 250</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 150 254 231 257 225 134 47 268 167 262 102 2 45 139 272 177 255 256 264 263 19 11 42 5 120 265 280 274 172 155 163 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_istr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 191 19 11 120 150 254 179 182 256 102 268 167 204 218 170 255 264 263 5 272 177 223 206 197 165 195 149 262 257 225 2 231 42 45 265 280 274 172 155 163 198 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 197 179 165 170 195 191 149 223 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_HardFaultHandler.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 142</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_HardFault_Handler.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 242</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 123</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 245</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\stm32_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 128</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 133</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 156 191 182 256 102 19 231 278 258 254 198 255 264 263 139 266 153 159 179 207 218 262 257 225 2 45 134 47 210 276 273 161 151 160 170 204 206 11 42 5 120 265 268 280 272 274 150 172 177 155 167 163 197 165 195 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 207 198 197 179 165 170 195 191 149 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\stm32f10x_eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 124</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 140</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 254 45 255 231 273 42 210 264 263 151 256 102 19 11 5 120 47 276 161 160 183 262 257 225 2 134 139 266 278 153 156 159 258 208 265 268 280 272 274 150 172 177 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 208 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 183</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 255 231 266 139 159 264 263 153 254 179 198 182 256 102 19 278 156 258 191 207 223 262 257 225 2 45 134 47 210 276 273 161 151 160 170 206 11 42 5 120 265 268 280 272 274 150 172 177 155 167 163 204 197 165 195 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 207 198 197 179 165 170 195 191 149 223</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_HardFaultHandler.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 146</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 142</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 109</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\utility.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 226</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 231 45 102 67 11 42 5 228 134 139 79 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 228 102 231 45 11 134 139 42 5 67 79 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 147</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 212</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161 191 19 47 254 179 182 256 102 231 276 160 223 170 255 264 263 134 210 273 151 204 206 197 165 195 149 262 257 225 2 45 139 266 278 153 156 159 258 198 11 42 5 120 265 268 280 272 274 150 172 177 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 206 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258 182 204 197 179 165 170 195 191 149 223</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_RTT_printf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\HardFaultHandler.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 235</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_bkp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 258 254 102 2 139 278 262 45 231 156 257 225 134 47 266 153 159 177 255 256 264 263 19 11 42 5 120 210 276 273 161 151 160 265 268 280 272 274 150 172 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 266 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_can.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 129</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262 258 45 231 278 102 156 254 257 225 2 139 266 153 159 177 255 256 264 263 134 47 210 276 273 161 151 160 268 19 11 42 5 120 265 280 272 274 150 172 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 268 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 141</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 130</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 257 160 225 231 276 47 161 254 262 102 2 45 134 210 273 151 177 255 256 264 263 19 11 42 139 266 278 153 156 159 258 265 5 120 268 280 272 274 150 172 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 265 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 249</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 231 258 254 278 257 225 134 47 156 262 102 2 45 139 266 153 159 255 256 264 263 19 11 42 5 120 210 276 273 161 151 160 265 268 280 272 274 150 172 177 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 258 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\CMSIS\startup_stm32f10x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 125</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_dbgmcu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 254 231 163 257 225 134 47 172 262 102 2 45 139 265 274 155 255 256 264 263 19 11 42 5 120 268 272 150 177 167 278 210 266 276 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 278 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_dac.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 113</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 155 254 256 102 265 19 11 120 274 255 264 263 231 42 45 280 172 163 177 262 257 225 2 134 139 47 268 272 150 167 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47 257 254 225 134 172 231 280 163 262 102 2 45 139 265 274 155 177 255 256 264 263 19 11 42 5 120 268 272 150 167 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 272 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 231 262 45 254 272 102 2 139 177 257 225 134 47 268 150 167 255 256 264 263 19 11 42 5 120 265 280 274 172 155 163 276 210 266 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 276 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 244</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262 45 231 278 254 258 102 2 139 156 257 225 134 47 266 153 159 255 256 264 263 19 11 42 5 120 210 276 273 161 151 160 265 268 280 272 274 150 172 177 155 167 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 273 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 240</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 2 272 254 262 45 231 5 177 257 225 120 268 150 167 255 256 264 263 19 11 42 265 280 274 172 155 163 134 139 47 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 274 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_cec.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 150 254 255 231 45 264 263 268 167 256 102 19 11 5 120 272 177 262 257 225 2 134 139 47 265 280 274 172 155 163 270 210 266 276 278 273 153 161 156 151 159 160 258</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 270 254 255 225 102 231 45 11 134 139 42 5 2 47 120 19 263 262 256 257 264 210 265 266 268 276 280 278 272 273 274 153 150 161 172 156 177 151 155 159 167 160 163 258</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 135 9</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_bsp.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_istr.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_mem.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_istr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32_it.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\system_stm32f10x.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_pwr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_cec.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\startup_stm32f10x.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_wwdg.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Emulator.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_rcc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_snprintf.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_crc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_flash.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dbgmcu.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_eeprom.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_desc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_eeprom.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_crc.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\misc.__cstat.et</file>
+      <file>$PROJ_DIR$\Source\usb_prop.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_spi.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_sdio.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_sil.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_usart.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_fsmc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\trace.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32_it.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_endp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_endp.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_RTT_Syscalls_IAR.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_usart.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_core.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\EEPROM_Emulator.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Descriptor.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_adc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_tim.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_prop.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Bsp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_crc.__cstat.et</file>
+      <file>$PROJ_DIR$\Source\usb_endp.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_i2c.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_gpio.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dma.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\HardFaultHandler.o</file>
+      <file>$PROJ_DIR$\Source\usb_desc.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_usart.__cstat.et</file>
+      <file>$PROJ_DIR$\Source\usb_prop.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Emulator.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_desc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Exe\FTDI_Emulator.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\misc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_iwdg.pbi</file>
+      <file>$PROJ_DIR$\Source\bsp.h</file>
+      <file>$PROJ_DIR$\Source\bsp.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_rcc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_adc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_pwr.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_tim.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_HardFaultHandler.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_RTT_Syscalls_IAR.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_int.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_HardFault_Handler.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\utility.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dbgmcu.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_i2c.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yfuns.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\assert.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_eeprom.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_rtc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_wwdg.__cstat.et</file>
+      <file>$PROJ_DIR$\Source\usb_desc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_pwr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\fifo.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\trace.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_wwdg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_HardFaultHandler.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_prop.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_RTT_printf.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_snprintf.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_fsmc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\bsp.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\fifo.pbi</file>
+      <file>$PROJ_DIR$\Source\SEGGER_RTT.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Descriptor.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Eeprom.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dma.pbi</file>
+      <file>$PROJ_DIR$\Source\SEGGER_RTT_Conf.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_RTT.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_bkp.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_sil.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dac.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_istr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_init.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_can.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_HardFaultHandler.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_spi.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_init.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Bsp.o</file>
+      <file>$PROJ_DIR$\Source\SEGGER.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32_it.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_rcc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_int.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_tim.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_RTT_printf.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\system_stm32f10x.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_exti.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Eeprom.__cstat.et</file>
+      <file>$PROJ_DIR$\Linker\stm32f10x_flash.icf</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_i2c.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_fsmc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_prop.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dma.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Bsp.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Source\SEGGER_RTT_Syscalls_IAR.c</file>
+      <file>$PROJ_DIR$\Source\SEGGER_RTT.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Source\SEGGER_snprintf.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_pwr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_RTT.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_desc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Emulator.pbd</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\EEPROM_Emulator.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_pwr.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\List\FTDI_Emulator.map</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\fifo.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_bsp.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\utility.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\trace.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_int.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_init.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_pwr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_can.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_cec.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_can.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\EEPROM_Emulator.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\assert.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Exe\FTDI_Emulator.hex</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\main.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_regs.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_HardFault_Handler.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_regs.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_exti.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_exti.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\SEGGER_HardFault_Handler.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_sdio.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_rtc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_sil.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_gpio.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_endp.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_sdio.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_core.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dbgmcu.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_bsp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_bkp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_iwdg.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Descriptor.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_adc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_regs.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\misc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dac.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_core.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_spi.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Eeprom.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_mem.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_dac.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_cec.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_iwdg.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_rtc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\FTDI_Emulator.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_flash.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_flash.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\utility.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_int.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\bsp.__cstat.et</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_gpio.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_rtc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_rcc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_fsmc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_gpio.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_sdio.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_pwr.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_fsmc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_iwdg.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_spi.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_usart.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_i2c.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_core.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_wwdg.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_pwr.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_core.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_rtc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_tim.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_spi.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_init.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_init.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_int.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_iwdg.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_i2c.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_usart.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_tim.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_wwdg.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_rcc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_sdio.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_def.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Emulator.c</file>
+      <file>$PROJ_DIR$\Source\FTDI_Type.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_type.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\usb_mem.__cstat.et</file>
+      <file>$PROJ_DIR$\Source\EEPROM_Emulator.h</file>
+      <file>$PROJ_DIR$\Source\EEPROM_Emulator.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_mem.c</file>
+      <file>$PROJ_DIR$\Source\fifo.c</file>
+      <file>$PROJ_DIR$\Source\FTDI_Descriptor.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Eeprom.h</file>
+      <file>$PROJ_DIR$\Source\fifo.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_regs.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_mem.h</file>
+      <file>$PROJ_DIR$\Source\assert.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Emulator.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_sil.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_sil.h</file>
+      <file>$PROJ_DIR$\Source\assert.c</file>
+      <file>$PROJ_DIR$\Library\USB\usb_regs.h</file>
+      <file>$PROJ_DIR$\Library\USB\usb_lib.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Bsp.c</file>
+      <file>$PROJ_DIR$\Source\FTDI_Bsp.h</file>
+      <file>$PROJ_DIR$\Source\FTDI_Descriptor.c</file>
+      <file>$PROJ_DIR$\Source\FTDI_Eeprom.c</file>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>$PROJ_DIR$\Source\usb_conf.h</file>
+      <file>$PROJ_DIR$\Source\trace.c</file>
+      <file>$PROJ_DIR$\Source\usb_bsp.h</file>
+      <file>$PROJ_DIR$\Source\stm32_it.h</file>
+      <file>$PROJ_DIR$\Source\stm32f10x_eeprom.h</file>
+      <file>$PROJ_DIR$\Source\system_stm32f10x.c</file>
+      <file>$PROJ_DIR$\Source\stm32f10x_conf.h</file>
+      <file>$PROJ_DIR$\Source\usb_istr.c</file>
+      <file>$PROJ_DIR$\Source\SEGGER_HardFaultHandler.S</file>
+      <file>$PROJ_DIR$\Source\SEGGER_HardFault_Handler.c</file>
+      <file>$PROJ_DIR$\Source\stm32_it.c</file>
+      <file>$PROJ_DIR$\Source\Global.h</file>
+      <file>$PROJ_DIR$\Source\stm32f10x_eeprom.c</file>
+      <file>$PROJ_DIR$\Source\macro_misc.h</file>
+      <file>$PROJ_DIR$\Source\usb_istr.h</file>
+      <file>$PROJ_DIR$\Source\usb_bsp.c</file>
+      <file>$PROJ_DIR$\Source\trace.h</file>
+      <file>$PROJ_DIR$\Source\usb_pwr.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\Source\SEGGER_HardFaultHandler.c</file>
+      <file>$PROJ_DIR$\Source\utility.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Source\utility.c</file>
+      <file>$PROJ_DIR$\Source\usb_pwr.c</file>
+      <file>$PROJ_DIR$\Source\SEGGER_RTT_printf.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Source\HardFaultHandler.S</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_bkp.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_can.c</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_0.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_2.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_3.h</file>
+      <file>$PROJ_DIR$\Library\SPL\misc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_adc.c</file>
+      <file>$PROJ_DIR$\Library\CMSIS\system_stm32f10x.c</file>
+      <file>$PROJ_DIR$\Library\SPL\misc.c</file>
+      <file>$PROJ_DIR$\Library\CMSIS\startup_stm32f10x.s</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_1.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\system_stm32f10x.h</file>
+      <file>$PROJ_DIR$\Library\CMSIS\stm32f10x_4.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_adc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_bkp.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dbgmcu.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_can.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dac.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_cec.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dma.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dma.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_exti.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_flash.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_crc.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_crc.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dbgmcu.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_exti.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_dac.h</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_flash.c</file>
+      <file>$PROJ_DIR$\Library\SPL\stm32f10x_cec.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_gpio.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\bsp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\main.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\system_stm32f10x.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\assert.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Obj\stm32f10x_bkp.__cstat.et</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_endp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 166</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 281 273 219 266 229 258 124 76 307 210 217 73 291 191 293 302 202 246 239 269 270 189 120 119 194 296 300 197 224 214 252 226 55 117 126 118 127 294 303 305 301 200 208 203 198 206 207 285 245 212 243 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 281 270 189 273 126 119 76 194 124 118 117 127 191 120 291 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 246 245 226 212 217 243 239 195 73 266 269</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_desc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 281 293 229 202 217 291 191 302 226 239 258 273 124 76 307 219 210 73 55 245 212 243 195 270 189 120 119 194 296 300 197 224 214 252 246 117 126 118 127 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 55 281 270 189 273 126 119 76 194 124 118 117 127 191 120 291 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_prop.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 114</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 226 208 229 281 269 239 118 126 303 207 22 217 291 301 198 252 73 55 245 212 243 195 270 189 117 273 127 294 305 200 203 206 285 246 258 120 119 124 76 194 191 293 296 307 300 302 197 219 224 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 55 281 270 189 273 126 119 76 194 124 118 117 127 191 120 291 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195 22 73 269</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FTDI_Emulator\Release\Exe\FTDI_Emulator.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 154</file>
+        </tool>
+        <tool>
+          <name>ILINK</name>
+          <file> 140</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 111 314 152 141 101 173 180 50 312 176 161 61 8 29 37 92 97 183 19 182 15 45 18 160 14 27 165 112 184 134 11 71 162 99 38 26 9 108 28 0 34 96 63 3 2 6 158 93 143 188 121 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 311</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 196</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 281 303 189 118 126 207 239 73 208 246 241 270 301 198 55 226 255 22 269 229 291 117 273 127 294 305 200 203 206 285 217 258 120 119 124 76 194 191 293 296 307 300 302 197 219 224 202 214 210 252 245 212 243 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 281 270 189 273 126 119 76 194 124 118 117 127 191 120 291 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 255 246 245 226 212 217 243 239 195 22 73 269 241</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_RTT_Syscalls_IAR.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 273 90 194 126 193 191 86 132 119 124 118 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68 132 273 126 119 193 194 124 118 86 90 191</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_RTT.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 273 132 194 131 90 191 122 193 86 126 119 124 118</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 86 90 191 273 131 126 119 193 194 124 118 132 122</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_snprintf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 124 126 273 20 119 189 102 132 125 193 194 263</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 273 126 119 193 194 124 118 132 189 102 263</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 124 281 273 191 200 284 291 294 206 290 189 120 119 118 305 203 285 282 283 292 270 117 126 258 303 301 208 198 207 224 193 194 127 293 296 307 300 302 197 219 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 165</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 310</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 273 126 303 284 291 124 208 281 290 189 120 258 301 198 224 282 283 292 270 117 119 118 191 294 305 200 203 206 285 197 193 194 127 293 296 307 300 302 219 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 197 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_fsmc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 113</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119 120 193 224 281 290 189 127 300 284 291 273 124 296 197 214 282 283 292 270 117 126 194 293 307 302 219 202 210 200 118 191 258 294 303 305 301 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 200 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_iwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 184</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 172</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 281 120 197 119 191 127 290 189 118 296 214 284 291 273 124 126 300 224 282 283 292 270 117 193 194 293 307 302 219 202 210 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 219 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 178</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302 239 281 226 229 283 270 194 293 202 217 282 292 189 117 126 273 307 219 210 254 245 212 243 195 290 284 291 120 193 127 296 300 197 224 214 252 246 119 124 118 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 134</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127 124 273 126 197 281 284 291 296 214 290 189 120 119 118 191 300 224 282 283 292 270 117 193 194 293 307 302 219 202 210 203 258 294 303 305 301 200 208 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 203 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 185</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 284 258 273 291 301 281 124 126 198 290 189 120 119 118 191 303 208 207 282 283 292 270 117 193 194 127 294 305 200 203 206 285 293 296 307 300 302 197 219 224 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 179</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 191 281 200 290 189 120 119 294 206 284 291 273 124 126 305 203 285 224 282 283 292 270 117 193 194 258 303 301 208 198 207 127 293 296 307 300 302 197 219 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 147</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302 243 120 281 245 290 189 194 293 202 254 212 195 284 291 273 307 219 210 229 226 217 239 282 283 292 270 117 126 193 127 296 300 197 224 214 252 246 119 124 118 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_int.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 146</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302 254 195 273 281 212 284 291 194 293 202 245 243 290 189 120 307 219 210 229 226 217 239 282 283 292 270 117 126 193 127 296 300 197 224 214 252 246 119 124 118 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 112</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302 124 273 281 284 291 194 293 202 290 189 120 119 118 307 219 210 224 282 283 292 270 117 126 193 127 296 300 197 214 208 191 258 294 303 305 301 200 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 208 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 208 290 189 281 120 119 126 303 207 284 291 273 124 258 301 198 224 282 283 292 270 117 193 191 294 305 200 203 206 285 194 127 293 296 307 300 302 197 219 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 207 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_tim.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 106</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 281 291 284 198 273 258 301 290 189 120 124 126 303 208 207 224 282 283 292 270 117 119 118 191 294 305 200 203 206 285 214 193 194 127 293 296 307 300 302 197 219 202 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 214 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_wwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 292 294 189 117 194 206 282 126 273 200 281 283 270 193 127 305 203 285 224 290 284 291 120 119 124 118 191 258 303 301 208 198 207 210 293 296 307 300 302 197 219 202 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 210 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_sdio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 162</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 167</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 191 281 200 282 126 273 292 189 117 194 294 206 283 270 193 305 203 285 224 290 284 291 120 119 124 118 258 303 301 208 198 207 202 127 293 296 307 300 302 197 219 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 202 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FTDI_Emulator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 186</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 305 193 195 248 285 281 246 231 126 273 254 203 239 269 236 212 284 291 191 294 200 206 189 228 125 266 252 237 241 235 194 132 245 243 290 120 258 303 301 208 198 207 131 256 122 119 124 118 229 226 217 282 283 292 270 117 127 293 296 307 300 302 197 219 224 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 131 273 126 119 193 194 124 118 132 122 125 239 189 266 252 246 254 281 282 270 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 245 226 212 217 243 195 269 237 248 228 241 236 231 235 256</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\EEPROM_Emulator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 152</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 138</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119 197 281 256 127 118 231 284 291 117 296 214 273 124 126 290 300 224 189 193 194 282 283 292 270 293 307 302 219 202 210 120 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 231 189 273 126 119 193 194 124 118 256 281 282 270 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 230</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302 284 212 291 281 254 195 273 194 293 202 245 243 290 189 120 307 219 210 229 226 217 239 282 283 292 270 117 126 193 127 296 300 197 224 214 252 246 119 124 118 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\fifo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 141</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 124 126 265 272 119 118 273 189 237 240 132 193 194 131 122 125 128 277</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 273 126 119 193 194 124 118 132 237 189 272 131 122 240 128 277 265</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_regs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 156</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 158</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 175</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302 243 120 281 245 290 189 194 293 202 254 212 195 284 291 273 307 219 210 229 226 217 239 282 283 292 270 117 126 193 127 296 300 197 224 214 252 246 119 124 118 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\USB\usb_sil.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 164</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302 283 229 226 270 281 239 194 293 202 217 282 292 189 117 126 273 307 219 210 254 245 212 243 195 290 284 291 120 193 127 296 300 197 224 214 252 246 119 124 118 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\assert.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 153</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 314</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 273 128 122 132 268 189 126 277 119 124 118 240 193 194 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 240 128 273 126 119 193 194 124 118 132 277 189 268 131 122</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FTDI_Bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 273 291 294 237 126 206 124 284 191 200 281 305 203 285 119 118 290 189 120 258 303 301 208 198 207 248 228 193 194 282 283 292 270 117 127 293 296 307 300 302 197 219 224 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 248 228 189 273 126 119 193 194 124 118 237 281 282 270 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FTDI_Descriptor.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 87</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 124 126 189 273 235 252 119 118 229 193 194</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 229 252 189 273 126 119 193 194 124 118 235</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FTDI_Eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 88</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 180</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 189 273 126 231 194 228 237 193 236 119 124 118</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 236 228 189 273 126 119 193 194 124 118 237 231</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 145</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 312</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 155</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 214 120 273 296 252 195 281 290 189 127 197 254 284 291 193 300 224 212 246 229 282 283 292 270 117 126 194 293 307 302 219 202 210 245 243 119 124 118 191 258 294 303 305 301 200 208 203 198 206 207 285 226 217 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 246 245 226 212 217 243 239 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\trace.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 144</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 273 131 118 128 132 119 122 189 126 277 124 268 193 194</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 268 128 273 126 119 193 194 124 118 132 277 189 131 122</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\system_stm32f10x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 313</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 197 281 290 189 127 120 119 191 296 214 284 291 273 124 126 300 224 282 283 292 270 117 193 194 293 307 302 219 202 210 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_istr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 239 127 197 281 226 229 283 270 273 296 214 252 266 217 282 292 189 117 126 193 300 224 269 254 245 212 243 195 290 284 291 120 194 293 307 302 219 202 210 246 119 124 118 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195 269 266</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_HardFaultHandler.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_HardFault_Handler.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 161</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 157</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\stm32_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 103</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 270 203 239 229 283 118 305 285 281 246 282 292 189 117 126 119 191 294 200 206 226 255 266 290 284 291 120 273 124 258 303 301 208 198 207 217 252 254 193 194 127 293 296 307 300 302 197 219 224 202 214 210 245 212 243 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 255 246 245 226 212 217 243 239 195 266</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\stm32f10x_eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126 281 282 273 301 258 292 189 117 194 198 283 270 193 127 303 208 207 231 290 284 291 120 119 124 118 191 294 305 200 203 206 285 256 293 296 307 300 302 197 219 224 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 256 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 231</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 170</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 142</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 282 126 294 206 292 189 117 119 191 200 281 226 246 229 283 270 118 305 203 285 239 255 269 290 284 291 120 273 124 258 303 301 208 198 207 217 254 193 194 127 293 296 307 300 302 197 219 224 202 214 210 252 245 212 243 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 255 246 245 226 212 217 243 239 195 269</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_HardFaultHandler.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\utility.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 192</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 273 126 189 131 119 124 118 272 193 194 132 122</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 272 189 273 126 119 193 194 124 118 131 132 122</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\usb_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 139</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 208 124 239 281 226 229 283 270 126 303 207 189 269 217 282 292 117 273 258 301 198 252 254 245 212 243 195 290 284 291 120 119 118 191 294 305 200 203 206 285 246 193 194 127 293 296 307 300 302 197 219 224 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 254 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285 229 252 245 226 212 217 243 239 195 269</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\SEGGER_RTT_printf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 194 124 273 90 125 191 126 193 86 132 119 118</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 86 90 191 273 125 126 119 193 194 124 118 132</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\HardFaultHandler.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_bkp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 171</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 315</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 119 191 281 120 305 290 189 118 203 284 291 273 124 126 294 200 206 224 282 283 292 270 117 193 194 127 258 303 301 208 198 207 293 296 307 300 302 197 219 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 294 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_can.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 151</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 290 189 285 305 118 203 281 284 291 120 119 191 294 200 206 224 282 283 292 270 273 124 126 258 303 301 208 198 207 296 117 193 194 127 293 307 300 302 197 219 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 296 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 174</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 284 207 291 126 303 273 124 208 281 290 189 120 119 118 258 301 198 224 282 283 292 270 117 191 294 305 200 203 206 285 293 193 194 127 296 307 300 302 197 219 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 293 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 273 285 126 281 124 305 284 291 203 290 189 120 119 118 191 294 200 206 282 283 292 270 117 193 194 127 258 303 301 208 198 207 293 296 307 300 302 197 219 224 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 285 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\CMSIS\startup_stm32f10x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_dbgmcu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 169</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 307 124 281 273 126 210 284 291 219 290 189 120 119 118 191 293 302 202 282 283 292 270 117 193 194 127 296 300 197 224 214 305 258 294 303 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 305 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_dac.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 182</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 177</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 270 193 202 281 283 127 293 273 302 282 292 189 117 126 194 307 219 210 224 290 284 291 120 119 124 118 191 296 300 197 214 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 307 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 115</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 284 281 291 219 273 124 126 307 210 290 189 120 119 118 191 293 302 202 224 282 283 292 270 117 193 194 127 296 300 197 214 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 300 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 189 290 281 118 300 120 119 191 224 284 291 273 124 126 127 296 197 214 282 283 292 270 117 193 194 293 307 302 219 202 210 303 258 294 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 303 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 159</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 290 189 305 281 118 285 120 119 191 203 284 291 273 124 126 294 200 206 282 283 292 270 117 193 194 127 258 303 301 208 198 207 293 296 307 300 302 197 219 224 202 214 210</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 301 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 190</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119 120 127 300 281 290 189 118 193 224 284 291 273 124 296 197 214 282 283 292 270 117 126 194 293 307 302 219 202 210 191 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 302 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Library\SPL\stm32f10x_cec.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 150</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 281 282 126 273 127 292 189 117 194 296 214 283 270 193 300 224 290 284 291 120 119 124 118 191 293 307 302 219 202 210 298 258 294 303 305 301 200 208 203 198 206 207 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 298 281 282 270 189 273 126 119 193 194 124 118 117 127 191 120 291 290 283 284 292 258 293 294 296 303 307 305 300 301 302 200 197 208 219 203 224 198 202 206 214 207 210 285</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 140 52</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Library\CMSIS\system_stm32f10x.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
